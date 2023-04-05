@@ -6,8 +6,6 @@ This task is intended to give ClearPoint a high level idea about a candidate’s
 
 **_Please treat this document as confidential.  Do not share or redistribute this document._**
 
-**_Complete the task using either the JavaScript or the TypeScript languages. If this is not possible then please communicate this early with your hiring contact at ClearPoint._**
-
 ## Instructions
 
 **_Ensure you have [docker and docker-compose installed](https://docs.docker.com/compose/install/)_**
@@ -17,7 +15,7 @@ Run `docker-compose up` from the repo root. This will spin up a container that h
 http://localhost:3002/swagger
 ```
 
-The task is to demonstrate automated testing on the API in a small project.
+The task is to demonstrate automated testing on the API in a small project using either the JavaScript or the TypeScript languages. If this is not possible then please communicate this early with your hiring contact at ClearPoint.
 
 ## Notes
 
