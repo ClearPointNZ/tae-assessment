@@ -1,0 +1,8 @@
+version: "3.9"
+services:
+  api:
+    image: clearpointnz/coding-assessment:1.0.0
+    environment:
+      - ASPNETCORE_ENVIRONMENT=Development
+    ports:
+     - "3002:80"
