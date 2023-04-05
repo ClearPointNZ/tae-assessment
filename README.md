@@ -15,7 +15,9 @@ Run `docker-compose up` from the repo root. This will spin up a container that h
 http://localhost:3002/swagger
 ```
 
-The task is to demonstrate automated testing on the API in a small project using either the JavaScript or the TypeScript languages. If this is not possible then please communicate this early with your hiring contact at ClearPoint.
+The task is to demonstrate automated testing on the API in a small project.
+
+Unless otherwise agreed, complete the task using either the JavaScript or the TypeScript languages. If this is not possible then please communicate this early with your hiring contact at ClearPoint.
 
 ## Notes
 
