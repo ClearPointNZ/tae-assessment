@@ -21,6 +21,8 @@ Unless otherwise agreed, complete the task using either the JavaScript or the Ty
 
 ## Notes
 
+If you use *MacOS* computer to do the asssessment, you may need to update the `docker-compose.yml` `image` with the version 2.0.0 (`clearpointnz/coding-assessment:2.0.0`) which built specifically for `linux/arm64`. Otherwise, for *Linux* and *Windows*, use the default version 1.0.0.
+
 Please note the following general points;
 
 - Avoid excessive use of third party libraries.
